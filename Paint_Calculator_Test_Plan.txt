@@ -1,0 +1,17 @@
+Paint Calculator Test Plan
+
+Objectives
+-Provide a set of automated tests that verify the accuracy of the Paint Calculator
+-Document any defects and address areas that are lacking requirements
+
+In Scope
+-Automated functional tests
+-Single browser and OS with the use of Selenium
+
+Out of Scope
+-Performance, Stress, Load, and Volume testing
+-Multiple browsers and OSs
+
+Approach
+-Start with basic use cases such as single and multi-room scenarios
+-Include negative tests to verify no bad data is entered
