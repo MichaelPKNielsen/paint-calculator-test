@@ -5,6 +5,8 @@ I've added the requested documentation for problems, test plan, and testing leve
 
 Notes:
 
+You can find the corresponding paint-calculator branch at https://github.com/MichaelPKNielsen/paint-calculator/tree/test_branch
+
 Update the Chrome driver path in BaseClass.java, download latest Chrome driver at http://chromedriver.chromium.org/
 
 Download Selenium Standalone Server at http://www.seleniumhq.org/download/
