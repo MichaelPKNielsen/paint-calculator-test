@@ -1,7 +1,6 @@
 # Paint-Calculator-Test
 
 This is my test of the paint calculator.
-I've added the requested documentation for problems, test plan, and testing levels.
 
 Notes:
 
