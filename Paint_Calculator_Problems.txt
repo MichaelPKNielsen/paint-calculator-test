@@ -1,7 +1,0 @@
-Paint Calculator Problems
--Updated flask because Github was telling me there was a security vulnerability with the version in requirements
--Added several attributes to make identifying elements easier when writing automation tests
--Encountered a bug in how the program was calculating square feet, so I fixed that
--Encountered a bug in how the program was rounding gallons of paint required, so I fixed that
--Encountered a bug in how the program was sanitizing inputs, values such as '10.0' were not being caught in the error handling, so I fixed it so those values now work
--Encountered a potential bug related to how Total Gallons is calculated.  Example: If there are two 600 sq. ft rooms they individually need two gallons of paint, so the program calculates cumulatively 4 gallons.  However, their total size is 1200 sq. ft which only requires 3 gallons, this is assuming they are painted the same color.  I did not make a change because I don't know the requirement and did not want to make that assumption.

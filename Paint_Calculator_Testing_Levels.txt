@@ -1,6 +1,0 @@
-Paint Calculator Testing Levels
-Given the size of the paint calculator application I think the proper level of execution would be unit, integration, and acceptance testing.  
-Unit Testing – With proper unit testing it would be unlikely for there to have been the calculation errors that were found while testing.
-Integration Testing – This is the level of testing that would be performed by the automation tests that I created.  No individual unit is being tested but they are being tested as a group.
-Acceptance Testing – It is always a good practice to have other stakeholders test the application.
-System Testing – I don’t think this level is required based on the size of this application.  As I mention in the test plan “performance, stress, load, and volume testing” are out of scope.  It doesn’t seem likely that this application will run into problems that would be found by these tests under normal use.
